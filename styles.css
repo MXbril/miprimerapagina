@@ -265,6 +265,13 @@ div.greeting {
     background-color: #407fc7;
   }
 
+  p.alertas {
+    color: #4400ff;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 6.6em;
+  }
+
 
 
 /*.trabajo {
@@ -379,6 +386,13 @@ a:hover {
     img {
         width: 100%;
     }
+
+    p.alertas {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        padding: 0;
+      }
 
     .acerca-imagen img {
         padding: 0;
